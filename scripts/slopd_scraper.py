@@ -127,7 +127,7 @@ def parse_slopd_report(verbose = False, save_raw = False):
                     print(f'     {key_report}: {"-"*(30 - len(key_report))}-> {value_report}')
                 
         
-        with open(f"data/csv/SLOPD_report_{today}.csv", 'w', newline='\n') as csvfile:
+        with open(f"data/csv/SLOPD_report.csv", 'a', newline='') as csvfile:
 
             datawriter = csv.DictWriter(
                 csvfile, 
