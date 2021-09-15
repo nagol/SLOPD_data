@@ -2,7 +2,7 @@ name: scraper-slopd
 
 on:
   schedule:
-    - cron: '11 24 * * *' # runs at 12:00 UTC everyday
+    - cron: '26 23 * * *' # runs at 12:00 UTC everyday
 
 jobs:
   build:
