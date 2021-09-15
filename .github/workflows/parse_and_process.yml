@@ -1,4 +1,4 @@
-name: scraper-san-juan-gobierno
+name: scraper-slopd
 
 on:
   schedule:
@@ -27,7 +27,7 @@ jobs:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
-        run: python sj-gobierno.py
+        run: python scripts/slopd_scraper.py
           
       - name: commit files
         run: |
