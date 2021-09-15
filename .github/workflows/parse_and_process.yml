@@ -19,7 +19,7 @@ jobs:
       - name: Install requirements
         run: pip install -r requirements.txt
       - name: Run Scraper
-        run: python slopd_scraper.py
+        run: python scripts/slopd_scraper.py
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
