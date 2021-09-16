@@ -1,6 +1,6 @@
 # SLOPD Git Scraper
 
-###Goal: 
+### Goal: 
 + Pull and parse the daily San Luis Obispo Police Department call logs (https://www.slocity.org/government/department-directory/police-department/police-log) 
 + Automate the process with Github Actions
 + Build up a database of police call activity over time.
