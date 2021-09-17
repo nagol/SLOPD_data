@@ -4,7 +4,6 @@ import re
 import csv
 from datetime import date
 
-
 def parse_slopd_report(verbose = False, save_raw = False):
     try:
 
@@ -115,19 +114,16 @@ def parse_slopd_report(verbose = False, save_raw = False):
 
     finally:
 
-        field_set = set()
         for key, value in extracted_cases.items():
             if verbose:
                 print()
                 print(f'For report number {key}:')
 
             for key_report, value_report in value.items():
-                field_set.add(key_report)
                 if verbose:
                     print(f'     {key_report}: {"-"*(30 - len(key_report))}-> {value_report}')
-                
-        
-        with open(f"data/csv/SLOPD_report.csv", 'a', newline='') as csvfile:
+
+        with open('data/csv/SLOPD_report.csv', 'a', newline='') as csvfile:
 
             datawriter = csv.DictWriter(
                 csvfile, 
@@ -150,7 +146,7 @@ def parse_slopd_report(verbose = False, save_raw = False):
                     'clearance_code'
                 ]
             )
-            datawriter.writeheader()
+
             for key, value in extracted_cases.items():
                 datawriter.writerow(value)
 
