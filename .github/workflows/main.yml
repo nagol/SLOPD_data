@@ -2,7 +2,7 @@ name: scraper-slopd
 
 on:
   schedule:
-    - cron: '26 23 * * *'
+    - cron: '26 23 * * MON,TUE,WED,THU'
 
 jobs:
   build:
