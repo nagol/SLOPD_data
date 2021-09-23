@@ -11,7 +11,11 @@ https://www.slocity.org/government/department-directory/police-department/police
 According to the website, the data is updated by 3PM Monday - Thursday. The Monday data contains all of the weekend data as well.
 
 ### Current State
+
 [![scraper-slopd](https://github.com/nagol/SLOPD_data/actions/workflows/main.yml/badge.svg)](https://github.com/nagol/SLOPD_data/actions/workflows/main.yml)
+
+[![create_plots](https://github.com/nagol/SLOPD_data/actions/workflows/create_plots.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/nagol/SLOPD_data/actions/workflows/create_plots.yml)
+
 
 ### Data - Quick Look
 
@@ -20,6 +24,6 @@ According to the website, the data is updated by 3PM Monday - Thursday. The Mond
 ![](../main/img/time_series_plot.png)
 
 
-#### Call Types
+#### Breakdown of Call Types
 
 ![](../main/img/barchart.png)
