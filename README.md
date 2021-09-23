@@ -14,7 +14,7 @@ According to the website, the data is updated by 3PM Monday - Thursday. The Mond
 
 [![scraper-slopd](https://github.com/nagol/SLOPD_data/actions/workflows/main.yml/badge.svg)](https://github.com/nagol/SLOPD_data/actions/workflows/main.yml)
 
-[![create_plots](https://github.com/nagol/SLOPD_data/actions/workflows/create_plots.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/nagol/SLOPD_data/actions/workflows/create_plots.yml)
+[![create_plots](https://github.com/nagol/SLOPD_data/actions/workflows/create_plots.yml/badge.svg)](https://github.com/nagol/SLOPD_data/actions/workflows/create_plots.yml)
 
 
 ### Data - Quick Look
