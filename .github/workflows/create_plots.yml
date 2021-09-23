@@ -1,8 +1,6 @@
 name: create_plots
 
-on:
-  schedule:
-    - cron: '40 23 * * MON,TUE,WED,THU'
+on: push
 
 jobs:
   build:
