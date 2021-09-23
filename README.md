@@ -12,3 +12,14 @@ According to the website, the data is updated by 3PM Monday - Thursday. The Mond
 
 ### Current State
 [![scraper-slopd](https://github.com/nagol/SLOPD_data/actions/workflows/main.yml/badge.svg)](https://github.com/nagol/SLOPD_data/actions/workflows/main.yml)
+
+### Data - Quick Look
+
+#### Number of Calls per Day Captured
+
+![](../main/img/time_series_plot.png)
+
+
+#### Call Types
+
+![](../main/img/barchart.png)
