@@ -2,10 +2,11 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+
 sns.set_theme(style="whitegrid")
 
 # Grab data from repo
-pd_data = pd.read_csv("data/csv/SLOPD.report.csv")
+pd_data = pd.read_csv("data/csv/SLOPD_report.csv")
 
 # Tabulate by call type - i.e. ROBBERY, ASSULT, DUI,...
 type_table = pd_data[['type']].groupby(['type']).size().reset_index().sort_values(by = [0], ascending=[False])
