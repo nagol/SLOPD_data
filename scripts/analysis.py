@@ -7,6 +7,7 @@ sns.set_theme(style="whitegrid")
 
 # Grab data from repo
 pd_data = pd.read_csv("data/csv/SLOPD_report.csv")
+pd_data.type = pd_data.type.str.strip()
 
 # Tabulate by call type - i.e. ROBBERY, ASSULT, DUI,...
 type_table = pd_data[['type']].groupby(['type']).size().reset_index().sort_values(by = [0], ascending=[False])
@@ -34,6 +35,7 @@ ax.set(ylabel="",
        xlabel="Count")
 sns.despine(left=True, bottom=True)
 
+
 # Save barchart
 f.savefig('img/barchart.png', bbox_inches='tight')
 
@@ -43,8 +45,10 @@ f, ax = plt.subplots(figsize=(15, 7))
 sns.lineplot(
     x="date", 
     y="count",
+    markers=True,
     data=calls_per_day_table[calls_per_day_table.date != calls_per_day_table.date.max()])
 ax.set(ylim=(0, None))
+plt.setp(ax.get_xticklabels(), rotation=90)
 
 # Save time-series plot
 f.savefig('img/time_series_plot.png', bbox_inches='tight')
