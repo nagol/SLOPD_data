@@ -2683,3 +2683,112 @@ case_number,date,received,dispatched,arrived,cleared,type,grid_location,location
 211005009,10/05/21,05:34,,05:38,,9-1-1 ABANDON,PN5,,,,"Owens, J","COM5",incid#=211005009 Completed call disp:NR clr:NR call=13l,IMMEDIATE DISCONNECT. ON CB THE CALLER ADVISED SHE WAS TRYING TO,
 211005010,10/05/21,06:36,,06:38,,9-1-1 ABANDON,PN5,,,,"Owens, J","COM5",incid#=211005010 Completed call disp:NR clr:NR call=14l,"IMMEDIATE DISCONNECT BEFORE PHONE NUMBER CAME THRU, UNABLE TO CAL",
 211005011,10/05/21,06:51,,06:57,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005011 Completed call disp:NR clr:NR call=15l,"FEMALE STAYED ON PH, CONFIRMED ACCIDENTAL",
+211005012,10/05/21,07:12,,07:13,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005012 Completed call disp:NR clr:NR call=16l,"FEMALE STAYED ON THE PH, CONFIRMED NEG EMERGENCY",
+211005013,10/05/21,07:22,07:25,07:47,,Keep the Peace,PN11,"N-16, San Luis Obispo,",1075 SUNROSE;,,"Berrios, G","4216,4238",incid#=211005013 Completed call call=26l,>>> REOPENED <<<,No Report
+211005014,10/05/21,07:30,07:41,07:44,,Assault,PN5,,,,"Magana, M","4206,4238",(MDC) Completed call incid#=211005014 call=18l,PD LOBBY,
+211005015,10/05/21,07:38,07:41,07:46,,BURG COM,PN13,"H-16, San Luis O",1221 CALLE JOAQUIN;,Burglary-Non Classified,"Stahnke, A","4206,4205",(MDC) Completed call incid#=211005015 call=19l,JUST OCCURRED,Report Filed in
+211005016,10/05/21,07:43,,07:45,,ABAND VEHICLE,PN1,"J-06, San Luis",881 BOYSEN; AREA OF;,,"Lichty, S","COM1",incid#=211005016 Completed call clr:RTF call=20l,BOYSEN BY ENTRANCE TO LASSENS - BLU CHEV TRUCK VA/UKV6124,Report To Follow
+211005017,10/05/21,08:10,08:15,08:17,,Welfare Check,PN7,"N-16, San Luis Ob",1108 IRONBARK # G;,,"Berrios, G","4218,S4,4216",(MDC) Completed call incid#=211005017 call=21l,CODE 3 FOR CUTS TO ARM STAGE FOR PD,No Report
+211005018,10/05/21,08:20,,08:21,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005018 Completed call disp:NR clr:NR call=24l,"MALE STAYED ON PHONE, ADV PH IS BROKEN, NEG EMERGENCY",
+211005019,10/05/21,08:22,,08:23,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005019 Completed call disp:NR clr:NR call=25l,"OPEN LINE, SOUNDS LIKE SUBJ WALKING AND POCKET DIAL",
+211005020,10/05/21,08:20,08:31,08:32,,BURG RES,PN3,"L-06, San Luis Obispo,",2074 LOOMIS;,"Burglary, Resident, Unlawf Ent","Perlette, M","4258",(MDC) Completed call incid#=211005020 call=22l,10-21 RP,Report To Follow
+211005021,10/05/21,08:45,08:45,08:50,,COLL INJ,PN8,"G-14, San Luis Obispo,",ROYAL & LOVR;,,"Walsh, J","4220,42K1",incid#=211005021 CITE clr:RTF call=28l,ZZZZZ,Report To Follow
+211005022,10/05/21,08:47,08:51,09:03,,Disorderly,PN2,"K-08, San Luis Obisp",1154 PEACH # B;,Disorderly Conduct,"Behrens, J","4205,4238,4218",(MDC) Completed call incid#=211005022 call=29l,"RP IS PROPERTY OWNER, TENANT TEXTED HER SAYING ""PLEASE SEND HELP""",No Report
+211005023,10/05/21,08:53,,08:53,,9-1-1 ABANDON,PN13,,,,"Lichty, S","COM1",incid#=211005023 CALLING BACK NOW disp:NR clr:NR call=30l,"OPEN LINE,TRAFFIC NOISE",
+211005024,10/05/21,08:54,,08:55,,COLL INJ,PN13,,,,"Barrett, J","42K1,4206,4220",incid#=211005024 Completed call call=31l,ZZZZZ,
+211005025,10/05/21,09:15,,09:19,,Assist Req,PN2,"K-08,",PHILLIPS & PEPPER; GRID K-07;,,"Mercer, K","COM6",incid#=211005025 Completed call disp:NR clr:NR call=32l,X-PATROL REQ,No Report
+211005026,10/05/21,09:34,,09:36,,Assist Req,PN5,"K-08, San Luis O",1042 WALNUT; SLOPD;,,"Mercer, K","COM6",incid#=211005026 Completed call disp:CAN clr:CAN call=34l,PD FRONT PORCH,Call Cancelled
+211005027,10/05/21,09:46,,09:47,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005027 Completed call disp:NR clr:NR call=36l,"OPEN LINE, SOUNDS LIKE SOMEONE PLAYING WITH PHONE. 911 PREFIX, UN",
+211005028,10/05/21,09:46,09:56,10:03,,Noise Other,PN5,"K-09, San",870 MONTEREY; JUNK GIRLS;,,"Magana, M","4238",(MDC) Completed call incid#=211005028 call=35l,LOUD BASS,Negative Violati
+211005029,10/05/21,09:48,09:52,09:55,,Theft,PN6,"L-10, San Luis Obispo",1041 LEFF # A;,Theft of Property,"Molina, C","4244",(MDC) Completed call incid#=211005029 call=37l,10-21 RP,Report Approved/
+211005030,10/05/21,10:03,,,,Theft,PN3,"L-07, San Luis",801 GRAND; VETS HALL;,,"Ponce, E","4216,",,1198 VETS HALL,Report To Follow
+211005031,10/05/21,11:04,11:05,,,Child Abuse,PN5,"K-08, San Luis O",1042 WALNUT; SLOPD;,Child Abuse or Neglect,"McCornack, C","4211",incid#=211005031 Completed call clr:RTF oc:CHAN call=44l,SCAR # 1018812,Report To Follow
+211005032,10/05/21,11:06,,11:23,,9-1-1 ABANDON,PN13,,,,"Lichty, S","COM1",incid#=211005032 Completed call disp:NR clr:NR call=45l,"OPEN LINE, NOTHING HEARD",
+211005033,10/05/21,11:09,,11:09,,9-1-1 ABANDON,PN1,"H-07, San Luis Obispo, C",248 LUNETA;,,"Lichty, S","COM1",incid#=211005033 Completed call disp:NR clr:NR call=46l,CALLER STAYED ON THE LINE...,No Report
+211005034,10/05/21,11:09,11:14,11:22,,COLL NON INJ,PN13,"I-12, San",100 MADONNA; MADONNA INN;,Citizen Assist,"Walsh, J","4220",(MDC) Completed call incid#=211005034 call=47l,10-21 RP,No Report
+211005035,10/05/21,11:17,,11:17,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005035 Completed call disp:NR clr:NR call=48l,"MALE STAYED ON PH, CONFIRMED ACCIDENTAL",
+211005036,10/05/21,11:33,,11:33,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005036 Completed call disp:NR clr:NR call=49l,"IMMEDIATE HANG UP, CB NOW",
+211005037,10/05/21,11:52,11:56,12:05,,Disorderly,PN6,"L-09,",1321 JOHNSON; SMART AND FINAL;,,"Magana, M","4238,4206",(MDC) Completed call incid#=211005037 call=52l,MALE IS 415 VERBAL AND THROWING ITEMS IFO BUSN. RP WAS TOLD TO ST,Gone on Arrival
+211005038,10/05/21,11:58,12:02,,,Suspicious,PN2,"L-06, San L",145 GRAND; TEACH SCHOOL;,,"Berrios, G","4216,S4,4205",incid#=211005038 Completed call disp:NR clr:GOA call=53l,INFO 10-5 FROM PRINCIPLE TO 4212,Gone on Arrival
+211005039,10/05/21,12:37,12:39,12:51,,Theft,PN13,"I-13, San Lui",255 MADONNA; BEST BUY;,Suspicious Person/Circumstance,"Berrios, G","4216,4238,4218",(MDC) Completed call incid#=211005039 call=54l,JUST OCCURRED,No Report
+211005040,10/05/21,12:45,13:10,13:16,,COLL NON INJ,PN10,"J-12,",195 HIGUERA; SUNSHINE DONUTS;,Citizen Assist,"Walsh, J","4220",(MDC) Completed call incid#=211005040 call=55l,2 VEH TC IN PLOT,No Report
+211005041,10/05/21,12:47,12:54,12:57,,Citizen Dispute,PN13,"H-13, San Luis",313 MADONNA; SPROUTS;,Citizen Dispute,"Stahnke, A","4206",(MDC) Completed call incid#=211005041 call=56l,PD FRONT PORCH,No Report
+211005042,10/05/21,12:49,,12:50,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005042 Completed call disp:NR clr:NR call=57l,"IMMEDIATE HANG UP, ON CB SAME RP AS DR#21105040.",
+211005043,10/05/21,12:51,12:59,13:07,,Suspicious,PN5,,,,"Magana, M","4238,4218,4206,4216",(MDC) Completed call incid#=211005043 call=58l,>> REOPENED <<4,
+211005044,10/05/21,12:57,,12:57,,9-1-1 ABANDON,PN5,,,,"Lichty, S","COM1",incid#=211005044 Completed call disp:NR clr:NR call=60l,IMMED DISCONNECT,
+211005045,10/05/21,13:05,,13:06,,9-1-1 ABANDON,PN6,"K-10; U:110, San Luis Obi",1445 OSOS;,,"Lichty, S","COM1",incid#=211005045 Completed call disp:NR clr:NR call=62l,IMMED DISCONNECT,No Report
+211005046,10/05/21,13:05,,13:07,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005046 Completed call disp:NR clr:NR call=61l,"OPEN LINE, FAINT VOICES HEARD IN BACKGROUND, NEG ANSWER TO QUESTI",
+211005047,10/05/21,13:08,13:14,13:19,,Animal Problem,PN6,"K-10, San",1400 OSOS; MITCHELL PARK;,Animal Problem,"Behrens, J","4205,4238",(MDC) Completed call incid#=211005047 call=63l,JUST OCCURRED,Field Interview
+211005048,10/05/21,13:13,,13:35,,COLL NON INJ,PN5,,1024 NIPOMO; TONITAS MEXICAN GRILL;,,"Walsh, J","4206,4220",incid#=211005048 1181 clr:RTF call=64l,1198 RP AT ADDR,Report To Follow
+211005049,10/05/21,13:41,,13:42,,9-1-1 ABANDON,PN10,,2252 BROAD; GOLDEN AGE BARBER SHOP;,,"Lichty, S","COM1",incid#=211005049 Completed call disp:NR clr:NR call=66l,IMMED DISCONNECT,No Report
+211005050,10/05/21,13:50,13:58,14:10,,Traffic Hazard,PN13,"I-13, San Luis Obis",200 BLK MADONNA;,,"Berrios, G","4216,4205",(MDC) Completed call incid#=211005050 call=68l,"TRANSIENT MALE STANDING IN CENTER DIVIDER ON MADONNA, IS 415 VERB",No Report
+211005051,10/05/21,13:49,,13:56,,Parking Problem,PN10,"K-15,",415 PRADO; HAPPY TAILS KENNEL;,,"Lichty, S","COM1",incid#=211005051 VEH BEING MOVED disp:NR clr:NR call=67l,VEH PARKED IN NO STOPPING DIRECTLY IFO BUSN ON CITY STREETS. REQ,No Report
+211005052,10/05/21,14:15,,14:16,,Medical,PN5,"J-10, San",THE CREAMERY 570 HIGUERA;,,"Walsh, J","4220,4216",incid#=211005052 Completed call disp:NR clr:NR call=69l,C3 PD ON SCENE FOR POSSIBLE OVERDOSE - BUS STOP NIPOMO SIDE,No Report
+211005053,10/05/21,14:28,14:48,14:50,,Assist Req,PN5,"K-08, San Luis O",1042 WALNUT; SLOPD;,,"Barrett, J","42K1",(MDC) Completed call incid#=211005053 call=70l,PD FRONT PORCH,No Report
+211005054,10/05/21,14:32,14:38,14:38,,Assist Req,PN8,"F-14, San Luis O",1586 MADONNA # 103;,,"Perlette, M","4258",(MDC) Completed call incid#=211005054 call=71l,10-21 RP,No Report
+211005055,10/05/21,14:37,14:39,14:43,,Disorderly,PN5,"K-09, San Luis",990 PALM; CITY HALL;,,"Koznek, T.","4218,4206",(MDC) Completed call incid#=211005055 call=72l,OS OSOS SIDE,Gone on Arrival
+211005056,10/05/21,14:40,14:47,14:50,,BURG RES,PN2,,,,"Molina, C","4244",(MDC) Completed call incid#=211005056 call=73l,10-21,
+211005057,10/05/21,14:51,14:55,15:06,,Suspicious,PN7,"L-10,",1911 JOHNSON; FRENCH HOSPITAL;,,"Magana, M","4238,4205",(MDC) Completed call incid#=211005057 call=74l,"RP WAS AT HOSPITAL FOR DR APPOINTMENT, SAW SUSP FROM 242 YESTERDA",Gone on Arrival
+211005058,10/05/21,15:11,,15:12,,Assist O Police,LZ0,,HWY 1 AND DAIRY CREEK INTERSECTION;,,"McCornack, C","4211",incid#=211005058 Completed call disp:NR clr:NR call=78l,,No Report
+211005059,10/05/21,15:14,15:18,15:24,,Theft,PN2,J,1 MUSTANG; MUSTANG VILLAGE OFFICE;,,"Perlette, M","4258",(MDC) Completed call incid#=211005059 call=79l,10-21 RP,Report To Follow
+211005060,10/05/21,15:52,16:02,16:02,,Traffic Hazard,PN13,"I-13, San Luis Obis",200 BLK MADONNA;,,"Shalhoob, T","S4",(MDC) Completed call incid#=211005060 call=80l,"FEMALE WALKING IN BIKE LANE, KICKING HER SHOES INTO TRAFFIC AND 4",No Report
+211005061,10/05/21,15:55,15:59,16:06,,Communications,PN2,,200 SANTA ROSA; MUSTANG VILLAGE II;,Communications Offense,"Molina, C","4244",(MDC) Completed call incid#=211005061 call=81l,10-21 RP,No Report
+211005062,10/05/21,15:57,,16:01,,Traffic Offense,PN10,"L-12, San Luis Obis",BROAD & CAUDILL;,,"Lichty, S","COM1",incid#=211005062 GREEN BOL disp:NR clr:NR call=82l,SILV AUDI 4D,No Report
+211005063,10/05/21,16:18,,16:18,,Assist Req,PN5,"K-08, San Luis O",1042 WALNUT; SLOPD;,,"Barrett, J","42K1",incid#=211005063 Completed call disp:NR clr:NR call=83l,PD FRONT PORCH,No Report
+211005064,10/05/21,16:36,,16:37,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005064 Completed call disp:NR clr:NR call=84l,"OPEN LINE, TALKING HEARD IN BACKGROUND, SOUNDS C4",
+211005065,10/05/21,16:37,,16:37,,9-1-1 ABANDON,PN6,"K-10; U:9, San Luis Obisp",939 PISMO;,,"Lichty, S","COM1",incid#=211005065 Completed call disp:NR clr:NR call=85l,CALLED LOOKING FOR BUSN LINE INFO,No Report
+211005066,10/05/21,16:37,16:46,16:51,,Welfare Check,PN6,K,899 PACIFIC; FIRST AMERICAN TITLE;,Welfare Check,"Berrios, G","4216,4205",(MDC) Completed call incid#=211005066 call=86l,TITLE CO X FROM CHURCH PLOT,No Report
+211005067,10/05/21,16:56,16:59,17:06,,Loitering,PN1,"J-07, San Luis Obispo",OAK; DEAD END;,Loitering,"Stahnke, A","4206,4238,4205",incid#=211005067 Completed call call=93l,>>REOPENED CALL<<,No Report
+211005068,10/05/21,16:59,17:00,,,Alarm Audible,PN2,"J-06, San Lu",100 CASA # B; DR LEVIN;,,"Behrens, J","4205,4216",incid#=211005068 CANCELLED BY ALARM CO disp:CAN clr:CAN call=88l,WEST EXIT DOOR AND FRONT ENTRY MOTION,Call Cancelled
+211005069,10/05/21,17:14,,17:14,,MUNI CODE VIOL,PN2,"J-07, San Luis",190 SANTA ROSA; SRP;,,"Behrens, J","4205",incid#=211005069 Completed call clr:FI call=89l,,Field Interview
+211005070,10/05/21,17:27,17:33,17:35,,Theft,PN5,"K-09, S",1075 COURT # 203; SULLENGER;,"Theft, Property, Shoplifting","Magana, M","4238",(MDC) Completed call incid#=211005070 call=90l,10-21 RP,Report To Follow
+211005071,10/05/21,17:31,17:33,17:36,,Citizen Dispute,PN10,"L-13, San Luis Obispo,",671 MITCHELL;,,"Stahnke, A","4206",(MDC) Completed call incid#=211005071 call=91l,10-21 RP,No Report
+211005072,10/05/21,17:36,17:42,17:51,,Suspicious,PN12,"I-17, S",LOVR & HIGUERA S; GRID H-17;,,"Berrios, G","4216,4205",(MDC) Completed call incid#=211005072 call=92l,MALE IS HOLDING A KNIFE AND DIGGING WIRE OUT OF POWER POLE ON COR,No Report
+211005073,10/05/21,17:44,18:25,18:31,,Loitering,PN1,H-05,451 JAYCEE; BISHOP PEAK SCHOOL;,,"Stahnke, A","4206,4205",(MDC) Completed call incid#=211005073 call=94l,BY PLAYGROUND,Gone on Arrival
+211005074,10/05/21,17:46,17:54,18:02,,Loitering,PN1,,,,"Behrens, J","4205,4216",(MDC) Completed call incid#=211005074 call=95l,IN COMMON AREA CABANA,
+211005075,10/05/21,17:47,,17:48,,9-1-1 ABANDON,PN9,"J-13, San Luis Obis",270 LOMA BONITA;,,"Lichty, S","COM1",incid#=211005075 Completed call disp:NR clr:NR call=96l,IMMED DISCONNECT,No Report
+211005076,10/05/21,17:48,17:54,17:55,,Assist Req,PN8,"G-13, San Luis O",1106 OCEANAIRE # 3;,,"Magana, M","4238",(MDC) Completed call incid#=211005076 call=97l,PD FRONT PORCH- RP WILL BE WAITING IN SILV PK,No Report
+211005077,10/05/21,18:09,18:10,18:16,,Alarm Audible,PN4,"L-09, San",1500 LIZZIE; ADULT SCHOOL;,Alarm,"Stahnke, A","4206,S4,4216",(MDC) Completed call incid#=211005077 call=99l,FRONT OFFICE MOTION BUILDING A,ALARM MALFUNCTIO
+211005078,10/05/21,18:13,18:18,18:28,,Welfare Check,PN12,"I-17, San Luis Obispo, C",47 DEL SOL;,,"Berrios, G","4216,4238",(MDC) Completed call incid#=211005078 call=100l,"FEMALE WALKED ITS RP'S HOME, HAS HAPPENED BEFORE AND FEMALE MAKES",No Report
+211005079,10/05/21,18:34,19:11,19:16,,Trespassing,PN6,,,,"Bravo, D","4250","incid#=211005079 Reassigned to call 107l, completed call 102l",MALE CAMPED OUT IN BACK OF CHURCH,
+211005080,10/05/21,18:32,18:57,19:16,,Assault,PN9,"J-15, San",TRAILHEAD BOB JONES PRADO;,"Assault, Simple","Marx, C","4267,4261",(MDC) Completed call incid#=211005080 call=101l,ON BJT BEHIND WATER TREATMENT PLANT,Report To Follow
+211005081,10/05/21,18:40,,18:41,,9-1-1 ABANDON,PN5,,,,"Mercer, K","COM6",incid#=211005081 Completed call disp:NR clr:NR call=103l,"IMMEDIATE HANG UP, 911 PREFIX UNABLE TO CB",
+211005082,10/05/21,18:48,18:58,19:15,,Trespassing,PN2,"K-08, S",1177 PALM; PETERSON DAN DDS;,,"Cox, J","4251,4250","incid#=211005082 Reassigned to call 107l, completed call 104l",TRANS SLEEPING IFO OFFICE DOOR IN SLEEPING BAG AND RP DOESN'T FEE,No Report
+211005083,10/05/21,18:52,20:19,20:25,,Trespassing,PN12,"I-17, S",3985 HIGUERA S; FOOD 4 LESS;,,"Marx, C","4261,4267",(MDC) Completed call incid#=211005083 call=112l,>>>REOPENED CALL<<<,No Report
+211005084,10/05/21,19:13,19:47,,,Loitering,PN2,"K-08,",1150 PALM; GLENN BURDETT INC;,,"Recinos, V","COM2",incid#=211005084 Completed call disp:CAN clr:CAN call=106l,TRANS LEANING UP AGAINST THE FLOWER BEDS ON PROP NEAR CORNER OF P,Call Cancelled
+211005085,10/05/21,19:20,19:22,19:28,,Robbery,PN11,"M-16, San Luis Obis",3960 BROAD; CVS;,"Robbery/Other Weapon, Misc.","Bravo, D","4250,4251,4261",(MDC) Completed call incid#=211005085 call=107l,"MALE CAME BHND FRONT COUNTER AND TOOK A BUNCH OF ITEMS, AND PUSHE",Report To Follow
+211005086,10/05/21,19:26,19:48,20:10,,Juvenile Prob,PN2,"J-07, San Luis",190 SANTA ROSA; SRP;,,"Bracy, B","4261",(MDC) Completed call incid#=211005086 call=108l,"FEMALE ON THE PHONE, ADV HER CHILD WAS AT THE SKATE PARK AND WAS",No Report
+211005087,10/05/21,19:41,19:47,19:46,,Disorderly,PN2,"K-08, San Luis Obispo, CA",1270 PALM;,,"Cox, J","4267,4261,4251",(MDC) Completed call incid#=211005087 call=109l,"TRANS YELLING AT RP WANTING TO FIGHT. LS WALKING TWDS 711, RP REQ",No Report
+211005088,10/05/21,19:54,20:01,20:09,,Suspicious,PN3,"L-07, San Lu",2000 MONTEREY; CHEVRON;,,"Bravo, D","4250",(MDC) Completed call incid#=211005088 call=110l,MALE IN A BRO SEDAN W/ RAG OVER HIS FACE AND SUNGLASSES ON PARKED,Gone on Arrival
+211005089,10/05/21,20:10,,20:11,,9-1-1 ABANDON,PN5,,,,"Henry, L","COM7",incid#=211005089 Completed call disp:NR clr:NR call=111l,DISCONNECT,
+211005090,10/05/21,20:20,20:25,,,9-1-1 ABANDON,PN1,"J-05, San Luis Obis",754 BOYSEN # 12;,,"Henry, L","COM7",incid#=211005090 Completed call disp:NR clr:NR call=113l,OPEN LINE NOTHING HEARD,No Report
+211005091,10/05/21,20:23,,20:24,,9-1-1 ABANDON,PN5,,,,"Henry, L","COM7",incid#=211005091 Completed call disp:NR clr:NR call=114l,DISCONNECT,
+211005092,10/05/21,20:27,20:29,20:34,,Welfare Check,PN3,L-08,1604 MONTEREY; LAMPLIGHTER INN;,,"Bravo, D","4261,4250",(MDC) Completed call incid#=211005092 call=115l,"MALE PASSED OUT ON FRONT PATIO AND IS BREATHING, BUT REFUSING TO",Field Interview
+211005093,10/05/21,20:49,20:51,21:00,,Disorderly,PN12,"I-17, San Luis Obispo",85 CHUPARROSA;,,"Bracy, B","4261,4267",incid#=211005093 Completed call call=121l,>>>REOPENED CALL<<<,No Report
+211005094,10/05/21,21:13,21:15,21:16,,Suspicious,PN11,"M-16, San Luis Ob",TANK FARM & BROAD;,,"Bravo, D","4251,4250",(MDC) Completed call incid#=211005094 call=117l,ON TANK FARM,No Report
+211005095,10/05/21,21:16,,21:16,,9-1-1 ABANDON,PN5,,,,"Henry, L","COM7",incid#=211005095 Completed call disp:NR call=118l,DISCONNECT,
+211005096,10/05/21,21:18,21:20,21:27,,Suspicious,PN3,"L-07, San Luis Obispo, CA",731 GROVE;,,"Cox, J","4251,4267",(MDC) Completed call incid#=211005096 call=119l,HEARD ONLY,No Report
+211005097,10/05/21,21:34,21:39,21:46,,Noise Other,PN11,"M-16, San Luis",4035 POINSETTIA # K;,,"Marx, C","4267",(MDC) Completed call incid#=211005097 call=120l,"LOUD TV, ON GOING PROBLEM W/ NEIGHBORS. RP HAS GONE THROUGH HOUSI",Negative Violati
+211005098,10/05/21,23:02,,23:04,,9-1-1 ABANDON,PN5,,,,"Henry, L","COM7",incid#=211005098 Completed call disp:NR clr:NR call=124l,DISCONNECT,
+211005099,10/05/21,23:05,23:12,,,Traffic Offense,PN2,"K-08, San Luis",SANTA ROSA & WALNUT;,,"Recinos, V","COM2",incid#=211005099 Completed call disp:NR clr:NR call=125l,4 FEMS STANDING ON TOP OF A TOYT PRIUS HBD,No Report
+211005100,10/05/21,23:08,23:14,23:17,,Disorderly,PN5,K-09,1000 HIGUERA; WOODSTOCKS PIZZA;,,"Bracy, B","4251,4250,4261",(MDC) Completed call incid#=211005100 call=126l,"HBD CUSTOMER WAS TRYING TO LEAVE W ALCOHOL, SMASHED A GLASS ON TH",No Report
+211005101,10/05/21,23:16,23:19,23:25,,Suspicious,PN9,"J-13, San Luis Obispo,",113 FONTANA;,,"Marx, C","4267,4251",(MDC) Completed call incid#=211005101 call=127l,UNK MALE CAME UP TO RP'S FRONT DOOR AND ASKED RP TO CALL THE PD,Report To Follow
+211005102,10/05/21,23:50,,23:50,,Trespassing,PN6,"K-10, San",1400 OSOS; MITCHELL PARK;,,"Bravo, D","4250,S5,4261",incid#=211005102 Completed call clr:CIT call=129l,"23:51:12 10/05/2021 - Recinos, V - From: Bravo, D",Citation
+211005509,10/05/21,11:39,,,,,,,,,"CUDWORTH, R",,,,
+211005510,10/05/21,13:59,,,,,,,,,"CUDWORTH, R",,,,
+211005511,10/05/21,14:29,,,,,,,,,"CUDWORTH, R",,,,
+211005512,10/05/21,15:44,,,,,,,,,"CUDWORTH, R",,,,
+211006001,10/06/21,00:10,,00:10,,Towed Vehicle,PN2,,,,"Henry, L","COM7",incid#=211006001 Completed call disp:NR clr:NR call=1l,SIL TOYT HIGHLANDER,
+211006002,10/06/21,00:51,,00:51,,Suspicious,PN1,"J-06, San Luis Obispo, CA",22 CHORRO;,,"Bracy, B","4261,4250",incid#=211006002 Completed call clr:FI call=4l,,Field Interview
+211006003,10/06/21,01:31,01:34,01:39,,Suspicious,PN3,"L-07,",1825 MONTEREY; UNIVERSITY INN;,,"Bracy, B","4261,4251",(MDC) Completed call incid#=211006003 call=5l,MALE IN A DRK HOODIE WALKING AROUND LOOKING INTO WIDOWS OF ROOMS.,Gone on Arrival
+211006004,10/06/21,02:01,02:04,02:14,,Suspicious,PN5,"K-09,",782 HIGUERA; CREEKY TIKI BAR;,,"Marx, C","4267,4251",(MDC) Completed call incid#=211006004 call=6l,"TRANS IN BACK ON PATIO SETTING POSS DOING H&S. RP NOT ON SCENE, W",No Report
+211006005,10/06/21,02:47,02:48,02:50,,Alarm Audible,PN2,K,596 CALIFORNIA; TACOS DE ACAPULCO;,,"Cox, J","4251,4261",incid#=211006005 Completed call disp:CAN clr:CAN call=7l,GENERAL MOTION,Call Cancelled
+211006006,10/06/21,05:29,05:36,05:41,,Assist Req,PN1,"H-06, San Luis Obispo,",166 FOOTHILL;,,"Bravo, D","4250,COM1",(MDC) Completed call incid#=211006006 call=9l,>> REOPENED <<,No Report
+211006007,10/06/21,05:40,05:43,05:53,,Suspicious,PN12,"M-17, San Luis Obispo, CA",810 FIERO;,,"Marx, C","4267,4251",(MDC) Completed call incid#=211006007 call=10l,RV IN PLOT WITH DOORS OPEN AND NOBODY AROUND IT. RP HAS TO GO INT,No Report
+211006008,10/06/21,05:45,05:48,05:54,,Medical,PN6,,,,"Bracy, B","4261,4250",incid#=211006008 Completed call call=12l,C3 FOR OD IN THE PLOT,
+211006009,10/06/21,05:54,,05:55,,9-1-1 ABANDON,PN5,,,,"Henry, L","COM7",incid#=211006009 Completed call disp:NR clr:NR call=13l,DISCONNECTED,
+211006010,10/06/21,06:09,,06:12,,Welfare Check,PN2,,1010 MURRAY; SIERRA VISTA HOSPITAL;,,"Henry, L","COM7",incid#=211006010 Completed call disp:NR clr:NR call=14l,ROOM 104,No Report
+211006011,10/06/21,06:30,,07:08,,9-1-1 ABANDON,PN1,"H-06, San Luis Obispo,",301 JEFFREY;,,"Lichty, S","COM1",incid#=211006011 Completed call disp:NR clr:NR call=15l,OPEN LINE NOTHING HEARD,No Report
+211006012,10/06/21,06:40,,07:20,,POSTING VEHS,PN5,"K-09, San Luis Obi",1000 BLK HIGUERA;,,"Barrett, J","42K1",(MDC) Completed call incid#=211006012 call=16l,4 POSTINGS FOR 10/7 FROM 0800-2200,No Report
+211006013,10/06/21,06:56,,06:57,,Assist O Police,LZ0,,,,"Lehnhoff, S","COMSP1",incid#=211006013 Completed call disp:NR clr:NR call=17l,06:56:56 10/06/2021 - admin,
+211006014,10/06/21,06:58,,07:00,,9-1-1 ABANDON,PN2,,1010 MURRAY; SIERRA VISTA HOSPITAL;,,"Lichty, S","COM1",incid#=211006014 Completed call disp:NR clr:NR call=18l,CALLED 911 AGAIN DEMANDING NURSE BE CONTACTED AGAIN FOR THE PUDDI,No Report
