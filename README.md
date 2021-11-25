@@ -15,7 +15,7 @@ According to the website, the data is updated by 3PM Monday - Thursday. The Mond
 [![scraper-slopd](https://github.com/nagol/SLOPD_data/actions/workflows/main.yml/badge.svg)](https://github.com/nagol/SLOPD_data/actions/workflows/main.yml)
 
 ## Interactive Dashboard to Investigate Data
-[https://logan-lossing.shinyapps.io/slopd_case_explorer/](https://logan-lossing.shinyapps.io/slopd_case_explorer/)
+[https://logan-lossing.shinyapps.io/slopd_activity/](https://logan-lossing.shinyapps.io/slopd_activity/)
 
 ## Data - Quick Look
 
