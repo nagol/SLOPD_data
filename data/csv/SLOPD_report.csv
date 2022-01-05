@@ -12332,3 +12332,125 @@ case_number,date,received,dispatched,arrived,cleared,type,grid_location,location
 220104006,01/04/22,05:58,06:00,06:06,,Alarm Audible,PN12,N-1,4540 BROAD; RARIG CONSTRUCTION ;,,"Tyler, B","4263,S7,4249",(MDC) Completed call incid#=220104006 call=8l,BOTH AUDIBLE BURG ALARM AND PANIC ALARM ACTIVATION,ALARM-HUMAN ERRO
 220104007,01/04/22,06:10,06:19,06:25,,Suspicious,PN7,M-13; COLONIAL MA,1255 ORCUTT # A11;,,"Tyler, B","4263,4249,S7",incid#=220104007 Completed call call=9l,RP DIFFICULT TO UNDERSTAND,No Report
 220104008,01/04/22,06:53,,06:54,,Public Works,PN3,"L-07,",2001 MONTEREY; PEACH TREE INN;,,"Lehnhoff, S","COMSP1",incid#=220104008 Completed call disp:NR clr:NR call=10l,DECEASED RACCOON IN THE MAIN DRIVEWAY,No Report
+220104009,01/04/22,07:19,07:21,07:33,,Assist Req,PN2,,1010 MURRAY; SIERRA VISTA HOSPITAL;,,"Stahnke, A","4206",(MDC) Completed call incid#=220104009 call=12l,DRUG PARAPHERNALIA FOR DESTRUCTION,No Report
+220104010,01/04/22,07:55,07:57,08:11,,Alarm Audible,PN11,"M-14, San Luis Obis",3450 BROAD; EDD;,,"Loll, B","4270,4268",(MDC) Completed call incid#=220104010 call=14l,FRONT DOOR,ALARM-HUMAN ERRO
+220104011,01/04/22,07:50,08:05,08:15,,Suspicious,PN13,"I-12, San",100 MADONNA; MADONNA INN;,,"Stahnke, A","4206",(MDC) Completed call incid#=220104011 call=13l,RP LEFT HIS WALLET IN A LYFT VEH ON 010122 IN VENTURA,No Report
+220104012,01/04/22,08:18,,08:19,,9-1-1 ABANDON,PN7,,1941 JOHNSON; PACIFIC MEDICAL PLAZA;,,"Lehnhoff, S","COMSP1",incid#=220104012 Completed call disp:NR clr:NR call=15l,"911 ABANDONED / ON RECALL BUSN IS C4, WILL CB BUSN LINE",No Report
+220104013,01/04/22,08:22,08:30,08:32,,Loitering,PN6,"K-09, San Luis Obispo, CA",1115 TORO;,Trespassing,"Behrens, J","4205,4206",(MDC) Completed call incid#=220104013 call=16l,"TRANSIENT MALE SITTING ON PORCH, YELLING & DISRUPTING OFFICE",Field Interview
+220104014,01/04/22,08:25,,08:26,,9-1-1 ABANDON,PN5,,,,"Lichty, S","COM1",incid#=220104014 Completed call clr:NR call=18l,"IMMED DISCONNECT, DID NOT REGISTER IN RAPID DEPLOY",
+220104015,01/04/22,08:32,,08:35,,Parking Problem,PN5,,,,"Barrett, J","42K1,S1",(MDC) Completed call incid#=220104015 call=20l,"LARGE BLACK VAN, NO PLATES",
+220104016,01/04/22,08:34,,08:34,,9-1-1 ABANDON,PN7,,,,"Lehnhoff, S","COMSP1",incid#=220104016 Completed call disp:NR clr:NR call=21l,911 ACCIDENTAL / RP STAYED ON THE LINE TO ADVS C4,
+220104017,01/04/22,08:51,,08:58,,9-1-1 ABANDON,PN9,,,,"Lehnhoff, S","COMSP1",incid#=220104017 Completed call disp:NR clr:NR call=24l,IMMED DISCONNECT FROM VOIP PHONE,
+220104018,01/04/22,08:54,,08:55,,Towed Vehicle,PN5,"J-10, San Luis Obispo,",525 HIGUERA;,Towed Vehicle,"Booth, J","S1",incid#=220104018 ENT SVS - SLO TOW 22651(O) clr:RTF oc:TOW call=26l,GRY HOND ACCORD,Report To Follow
+220104019,01/04/22,08:58,,08:58,,Traffic Stop,PN13,"I-13, San Luis",208 MADONNA; DENNYS;,,"Stevens, J","4265,4268",(MDC) Completed call incid#=220104019 call=27l,"09:01:08 01/04/2022 - Lichty, S - From: Stevens, J",Field Interview
+220104020,01/04/22,08:58,09:07,09:39,,BURG COM,PN12,,,,"Locarnini, C","4203",(MDC) Completed call incid#=220104020 call=28l,1021 RP,
+220104021,01/04/22,09:13,09:23,09:55,,Domestic Viol,PN8,"F-14, San Luis Ob",1500 BLK MADONNA;,,"Ponce, E","4268,SLSO",(MDC) Completed call incid#=220104021 call=29l,1021 HOSPITAL FIRST / AG EMERGENCY,No Report
+220104022,01/04/22,09:32,,09:42,,Welfare Check,PN12,"I-17, S",3977 HIGUERA S; TRADER JOES;,Welfare Check,"Behrens, J","4205",(MDC) Completed call incid#=220104022 call=31l,5 AGO,Unable to Locate
+220104023,01/04/22,09:31,09:38,09:49,,Deceased Subj,PN7,"N-13, San Luis Obispo,",3443 JOHNSON;,Deceased Subject,"Loll, B","4270,S4",(MDC) Completed call incid#=220104023 call=30l,C3 POSS OD NOT BREATHING COLD TO TOUCH,Report Approved/
+220104024,01/04/22,09:41,,09:41,,9-1-1 ABANDON,PN6,"L-09,",1321 JOHNSON; SMART AND FINAL;,,"Lichty, S","COM1",incid#=220104024 Completed call disp:NR clr:NR call=33l,IMMED DISCONNECT,No Report
+220104025,01/04/22,09:40,09:55,10:33,,Lost Property,PN3,,1930 MONTEREY; SANDS INN AND SUITES;,Lost or Found Property,"Locarnini, C","4203",(MDC) Completed call incid#=220104025 call=32l,1021 RP,Report Approved/
+220104026,01/04/22,09:49,,,,ABAND VEHICLE,PN8,"G-14, San Luis Obispo, CA",1731 PICO;,,"Lichty, S","COM1",,WHI CHEV SUBURBAN L/5PPV767,Report To Follow
+220104027,01/04/22,09:43,,,,ABAND VEHICLE,PN8,"G-14, San Luis Obispo, CA",1731 PICO;,,"Lichty, S","COM1",,WHI/BLU DOLPHIN MHOME L/8UKZ145,Call Cancelled
+220104028,01/04/22,10:00,10:02,,,Alarm Silent,PN13,"H-13, San Luis O",445 MADONNA; CHASE;,,"Stahnke, A","4206,4205,S4,4265",incid#=220104028 TECH WORKING disp:NR clr:EE call=37l,FRONT ENTRY & SIDE PERIMETER,ALARM-HUMAN ERRO
+220104029,01/04/22,10:03,10:11,10:16,,Loitering,PN10,,,,"Stevens, J","4265,4205",(MDC) Completed call incid#=220104029 call=38l,,
+220104030,01/04/22,10:06,10:10,10:26,,Assist Req,PN5,"K-08, San Luis O",1042 WALNUT; SLOPD;,,"Stahnke, A","4206",(MDC) Completed call incid#=220104030 call=39l,PD FRONT PORCH - REPO'D VEH RELEASE,No Report
+220104031,01/04/22,10:20,10:33,10:39,,Noise Other,PN12,"I-16, San Luis",3860 HIGUERA S # 186;,Noise Other,"Behrens, J","4205,4265",(MDC) Completed call incid#=220104031 call=40l,"HBD MALE YELLING & LOUD MUSIC, ONGOING ISSUE",Negative Violati
+220104032,01/04/22,10:30,,10:49,,9-1-1 ABANDON,PN7,"O-13, San Luis Obisp",1783 SOUTHWOOD;,,"Lehnhoff, S","COMSP1",incid#=220104032 Completed call disp:NR clr:NR call=41l,911 ABANDONED / ON RECALL NO ANSWER MSG LEFT,No Report
+220104033,01/04/22,10:32,,10:32,,Parking Problem,PN6,"L-09, San Lu",1251 JOHNSON; RITE AID;,,"Walsh, J","4220",incid#=220104033 WARNED disp:NR clr:NR call=42l,,No Report
+220104034,01/04/22,10:36,10:55,11:05,,Sex Offense,PN5,,,,"Stahnke, A","4206,4265",(MDC) Completed call incid#=220104034 call=43l,10-5 INFO FROM A CUSTOMER,
+220104035,01/04/22,10:37,10:41,10:46,,MENTAL SUBJ,PN9,"I-14, San Luis Obispo,",ELKS & PRADO;,Mental Health,"Loll, B","4270,4268",(MDC) Completed call incid#=220104035 call=44l,"MALE THREATENED TO KILL HIMSELF, NOW TRYING TO GATHER CAMPING BEL",Report Approved/
+220104036,01/04/22,10:57,,11:05,,Suspicious,PN2,"K-07, San Luis O",101SOFF CALIFORNIA;,,"Ponce, E","4268",(MDC) Completed call incid#=220104036 call=46l,MALE RIDING A BIKE AND PULLING ANOTHER. ANOTHER MALE SEEN WAITING,Unable to Locate
+220104037,01/04/22,11:08,11:09,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104037 Completed call disp:NR clr:NR oc:-911 call=49l,ACCIDENTAL,
+220104038,01/04/22,11:09,11:14,11:31,,COLL NON INJ,PN12,"M-18, San Luis Obispo",805 AEROVISTA;,,"Walsh, J","4220",incid#=220104038 INFO EXCHANGED disp:NR clr:NR call=50l,"NON INJURY TC, IN THE PLOT",No Report
+220104039,01/04/22,11:11,11:14,11:14,,Theft,PN1,"J-07, San Luis Obispo,",835 MISSION;,"Theft, Property, Vehicle Parts","Locarnini, C","4203",(MDC) Completed call incid#=220104039 call=51l,1021 RP,Report Approved/
+220104040,01/04/22,11:18,11:18,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104040 Completed call disp:NR clr:NR oc:-911 call=53l,ACCIDENTAL,
+220104041,01/04/22,11:16,11:24,11:30,,Loitering,PN11,"L-14, San Luis Obispo, C",3398 BROAD;,Loitering,"Behrens, J","4205,4268",(MDC) Completed call incid#=220104041 call=52l,RP HAS BEEN WATCHING RESD FOR A FRIEND. HE HAS BEEN CONT REMOVING,Gone on Arrival
+220104042,01/04/22,11:24,11:25,11:27,,Assist Req,PN5,"K-08, San Luis O",1042 WALNUT; SLOPD;,,"Stevens, J","4265",incid#=220104042 AREND disp:NR clr:NR call=54l,TICKET SIGN OFF IFO PD,No Report
+220104043,01/04/22,11:27,11:28,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104043 Completed call disp:NR clr:NR oc:-911 call=56l,911 ABANDON,
+220104044,01/04/22,11:25,11:34,11:36,,Theft,PN1,"I-06, San Luis Obis",555 RAMONA # 45;,,"Locarnini, C","4203",(MDC) Completed call incid#=220104044 call=55l,1021 RP,Report To Follow
+220104045,01/04/22,11:40,,11:40,,Parking Problem,PN11,"M-16, San Luis Obi",3900 BROAD; VONS;,,"Walsh, J","4220",incid#=220104045 PARKING CITE disp:NR clr:CIT call=57l,,Citation
+220104046,01/04/22,11:45,11:46,,,9-1-1 ABANDON,PN6,"J-11, S",277 HIGUERA; HARBOR FREIGHT;,,"McCornack, CM","COM3",incid#=220104046 Completed call disp:NR clr:NR oc:-911 call=59l,ACCIDENTAL,No Report
+220104047,01/04/22,12:03,,12:22,,POSTING VEHS,PN3,"L-06, San Luis Obispo",SLACK & GRAND;,,"Walsh, J","4220",incid#=220104047 C4 call=66l,>>> REOPENED <<<,No Report
+220104048,01/04/22,12:16,12:18,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104048 Completed call disp:NR clr:NR oc:-911 call=61l,911 ABANDON,
+220104049,01/04/22,12:23,12:26,12:28,,Loitering,PN6,"J-10, San",1316 BEACH; EMERSON PARK;,,"Stevens, J","4265,S4",(MDC) Completed call incid#=220104049 call=62l,COMPLAINT FROM GARDENERS TO PARKS & REC,Gone on Arrival
+220104050,01/04/22,12:28,12:30,,,9-1-1 ABANDON,PN6,"K-10, San Luis O",1235 CHORRO; CHASE;,,"McCornack, CM","COM3",incid#=220104050 Completed call disp:NR clr:NR oc:-911 call=63l,"911 ACCIDENTAL, WCB ON BUSINESS LINE",No Report
+220104051,01/04/22,12:36,12:40,,,9-1-1 ABANDON,PN6,"K-11, San Lui",784 HIGH; TRANSITIONS;,,"McCornack, CM","COM3",incid#=220104051 Completed call disp:NR clr:NR call=67l,911 ABANDON,No Report
+220104052,01/04/22,12:41,12:46,12:47,,Citizen Dispute,PN11,"N-17, San Luis Obis",4433 POINSETTIA;,Citizen Assist,"Locarnini, C","4203",(MDC) Completed call incid#=220104052 call=68l,1021 RP,No Report
+220104053,01/04/22,12:41,,12:43,,9-1-1 ABANDON,PN8,"F-15, San Lui",12255 LOS OSOS VALLEY;,,"Lichty, S","COM1",incid#=220104053 Completed call disp:NR clr:NR call=69l,12:41:55 01/04/2022 -  @ SLSO,No Report
+220104054,01/04/22,12:51,12:53,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104054 Completed call disp:NR clr:NR oc:-911 call=70l,POCKET DIAL SOUNDS,
+220104055,01/04/22,12:52,12:56,13:11,,Vandalism,PN5,"K-09,",782 HIGUERA; CREEKY TIKI BAR;,Destruct/Damage/Vandalize Prop,"Ponce, E","4268",(MDC) Completed call incid#=220104055 call=71l,REQ OFFICER 1198 AT BUSN,Report To Follow
+220104056,01/04/22,12:54,13:03,13:10,,Loitering,PN1,,,,"Stahnke, A","4206,4205",(MDC) Completed call incid#=220104056 call=72l,TRANSIENT MALE SETTING UP CAMP IN THE PARKING GARAGE,
+220104057,01/04/22,12:57,13:38,13:42,,Citizen Dispute,PN8,"G-14, San Luis Obis",1234 ATASCADERO;,Citizen Dispute,"Behrens, J","4205",(MDC) Completed call incid#=220104057 call=95l,**** RE-OPENED CALL ****,No Report
+220104058,01/04/22,13:02,,13:04,,ABAND VEHICLE,PN8,F-1,1572 MADONNA; MADONNA ROAD APTS;,Abandoned Vehicle,"Lehnhoff, S","COMSP1",incid#=220104058 Completed call clr:RTF oc:ABAN call=74l,RED DODGE PK L/8V93371 W/ BLK TL,Report To Follow
+220104059,01/04/22,13:33,13:34,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104059 Completed call disp:NR clr:NR oc:-911 call=76l,EMP ADVISED ACCIDENTAL,
+220104060,01/04/22,13:40,,13:56,,Theft,PN1,"I-05, San Luis Obispo, C",504 CUESTA;,,"Locarnini, C","4203",(MDC) Completed call incid#=220104060 call=77l,1021 RP,Report To Follow
+220104061,01/04/22,13:44,14:06,14:10,,Loitering,PN2,J-0,390 SANTA ROSA; JACK IN THE BOX;,,"Behrens, J","4205,4268",(MDC) Completed call incid#=220104061 call=78l,"MALE TRANSIENT SLEEPING IN PARKING LOT, HAS BEEN ASKED TO LEAVE A",No Report
+220104062,01/04/22,13:46,13:48,13:52,,Found Property,PN5,"K-08, San Luis Obispo",860 OSOS # 10;,,"Loll, B","4270",(MDC) Completed call incid#=220104062 call=79l,FOUND WALLET IFO PD,Report To Follow
+220104063,01/04/22,13:54,14:07,14:37,,Citizen Dispute,PN12,"I-16, San Luis",3960 HIGUERA S # 64;,"Theft, Property, Other","Loll, B","4270",(MDC) Completed call incid#=220104063 call=81l,IFO PD,Report To Follow
+220104064,01/04/22,13:52,14:07,14:19,,Theft,PN13,"G-15, Sa",1510 FROOM RANCH; OLD NAVY;,,"Stevens, J","4265",(MDC) Completed call incid#=220104064 call=80l,OCCD APPROX 20 AGO,No Report
+220104065,01/04/22,14:07,14:11,14:36,,Information,PN9,"J-14, San Luis Ob",3170 ESTELITA # D;,,"Pfarr, C","S2,L4",incid#=220104065 Completed call disp:NR clr:NR call=83l,PER L4,No Report
+220104066,01/04/22,14:07,14:12,,,Information,PN7,"O-13, San Luis",TANGLEWOOD & SEQUOIA;,,"McCornack, CM","3,3,COM3",incid#=220104066 Completed call disp:NR clr:NR call=82l,ZZZZZZZZZZZZ,No Report
+220104067,01/04/22,14:32,14:32,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104067 Completed call disp:NR clr:NR oc:-911 call=86l,911 ABANDON,
+220104068,01/04/22,14:36,14:37,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3","incid#=220104068 Reassigned to call 88l, completed call 87l","911 ABANDON X3, ACCIDENTAL, TROUBLE WITH PHONE",
+220104069,01/04/22,14:43,14:43,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104069 Completed call disp:NR clr:NR oc:-911 call=88l,911 ABANDON,
+220104070,01/04/22,15:15,15:17,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104070 Completed call disp:NR clr:NR oc:-911 call=89l,"OPEN LINE, THEN HANG UP",
+220104071,01/04/22,15:20,15:25,15:34,,POSTING VEHS,PN1,"J-08, San Luis Obispo, C",261 ALMOND;,,"Barrett, J","42K1",(MDC) Completed call incid#=220104071 call=90l,2 SPACES FOR 010422-040422 ALL DAY,No Report
+220104072,01/04/22,15:21,15:28,15:28,,Theft,PN1,"H-05, San Luis Obispo,",238 HIGHLAND;,,"Locarnini, C","4203",(MDC) Completed call incid#=220104072 call=91l,10-21 RP,Report To Follow
+220104073,01/04/22,15:27,15:34,15:35,,Trespassing,PN13,"I-13,",253 MADONNA # 120; STARBUCKS;,,"Stevens, J","4265,4270,4205",(MDC) Completed call incid#=220104073 call=92l,FEMALE THAT HAS BEEN 602'D FROM LOCATION PREVIOUSLY HAS RETURNED,Gone on Arrival
+220104074,01/04/22,15:29,15:34,15:38,,Theft,PN12,N-1,4554 BROAD # 100; BUDGET RENTAL;,Theft of Property,"Stahnke, A","4206",(MDC) Completed call incid#=220104074 call=93l,RP STANDING BY AT BUSN OR AVAIL BY 10-21,Report To Follow
+220104075,01/04/22,15:46,,15:46,,ABAND VEHICLE,PN10,"L-13, San Luis Obispo,",753 LAWRENCE;,,"McCornack, CM","COM3",incid#=220104075 Completed call clr:RTF oc:ABAN call=94l,GRY FORD RANGER W/CAMPER SHELL,Report To Follow
+220104076,01/04/22,15:54,15:56,,,Information,PN5,"J-09, San Luis Obispo,",1023 NIPOMO;,,"McCornack, CM","COM3",incid#=220104076 Completed call disp:NR clr:NR call=96l,"MALE WALKING IN AREA LOOKING IN TO VEHS, RP THINKS HE WAS TRYING",No Report
+220104077,01/04/22,15:59,16:01,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104077 Completed call disp:NR clr:NR oc:-911 call=97l,911 IMMEDIATE HANG UP,
+220104078,01/04/22,16:12,16:33,16:48,,Assist O Police,PN13,,,,"Loll, B","4270,4268,S4",(MDC) Completed call call=99l,ATC FOR ATPD RM #119,
+220104079,01/04/22,16:26,,16:27,,9-1-1 ABANDON,PN12,"M-16; U:110, San Luis",671 TANK FARM;,,"Lichty, S","COM1",incid#=220104079 Completed call disp:NR clr:NR call=101l,OPEN LINE THEN DISCONNECT,No Report
+220104080,01/04/22,16:26,16:34,,,Welfare Check,PN5,,,,"McCornack, CM","COM3",incid#=220104080 Completed call disp:CAN clr:CAN call=100l,1021 RP,
+220104081,01/04/22,16:37,,16:39,,Theft,PN8,"G-13, San Luis Obisp",1267 NEWPORT W;,,"Lichty, S","COM1",incid#=220104081 Completed call disp:NR clr:NR call=102l,ONLINE REPORT PROPERTY ENTRY,No Report
+220104082,01/04/22,16:41,16:42,16:42,,Found Property,PN5,,,,"Ponce, E","4268",(MDC) Completed call incid#=220104082 call=103l,PD FRONT PORCH,
+220104083,01/04/22,16:42,,16:42,,MUNI CODE VIOL,PN9,"J-15, San",TRAILHEAD BOB JONES PRADO;,,"Koznek, T.","4218",(MDC) Completed call incid#=220104083 call=104l,"16:48:02 01/04/2022 - Koznek, T.",Report To Follow
+220104084,01/04/22,16:47,,16:48,,Theft,PN2,"K-07, San Luis Obis",1340 TAFT # 220;,,"Lichty, S","COM1",incid#=220104084 Completed call disp:NR clr:NR call=105l,ONLINE REPORT PROPERTY ENTRY,No Report
+220104085,01/04/22,16:50,,16:51,,Theft,PN2,"K-07, San Luis Obispo",1386 STAFFORD;,,"Lichty, S","COM1",incid#=220104085 Completed call disp:NR clr:NR call=106l,ONLINE REPORT PROPERTY ENTRY,No Report
+220104086,01/04/22,16:52,16:56,16:56,,Alarm Audible,PN2,"J-06,",100 CASA # B; DAVID LEVIN MD;,,"Ponce, E","4261,4265,4268",(MDC) Completed call incid#=220104086 call=107l,EAST ENTY EXIT DOOR,ALARM MALFUNCTIO
+220104087,01/04/22,16:53,,16:53,,Trespassing,PN5,"K-09,",876 HIGUERA; BEVERLY FABRICS;,,"Koznek, T.","4218",(MDC) Completed call incid#=220104087 call=109l,"17:04:01 01/04/2022 - Koznek, T.",Field Interview
+220104088,01/04/22,16:53,16:57,17:02,,Assist Req,PN5,"K-08, San Luis O",1042 WALNUT; SLOPD;,,"Stevens, J","4265",(MDC) Completed call incid#=220104088 call=108l,VEH RELEASE IFO PD,No Report
+220104089,01/04/22,17:06,17:08,17:09,,Disorderly,PN2,K-07,552 CALIFORNIA # B; LAUNDEROSA;,,"Ponce, E","4268,4205,4265,4261",incid#=220104089 242 RTF clr:RTF call=112l,"2 MALES CHASING ANOTHER MALE AROUND LAUNDROMAT, ASKED RP TO CALL",Report To Follow
+220104090,01/04/22,17:04,17:22,17:32,,Citizen Dispute,PN3,"L-07, San Luis",801 GRAND; VETS HALL;,,"Loll, B","4270,S4",incid#=220104090 Completed call call=111l,"CITIZENS WAITING OUTSIDE VETS HALL TO BE COVID TESTED, KSBY TRYIN",No Report
+220104091,01/04/22,17:48,,17:48,,Public Works,PN5,"K-09, San Luis Obisp",OSOS & HIGUERA;,,"Lichty, S","COM1",incid#=220104091 Completed call disp:NR clr:NR call=115l,,No Report
+220104092,01/04/22,17:48,,17:52,,Loitering,PN5,"J-09, San",800 PALM; AH LOUIS STORE;,,"Behrens, J","4205,4206",(MDC) Completed call incid#=220104092 call=116l,"SUBJ LOITERING IN CAR PORT, INFO TO RP FROM EMP ON SITE LOCKING U",No Report
+220104093,01/04/22,17:51,17:52,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104093 Completed call disp:NR clr:NR oc:-911 call=117l,911 IMMEDIATE HANG UP,
+220104094,01/04/22,17:54,17:54,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104094 Completed call disp:NR clr:NR oc:-911 call=118l,911 ABANDON,
+220104095,01/04/22,17:54,18:00,18:11,,POSTING VEHS,PN1,"H-05, San Luis Obispo, CA",177 CRAIG;,,"Stahnke, A","4206",incid#=220104095 Completed call disp:NR clr:NR call=119l,2 SPACES FOR 010122-012022 ALL DAY,No Report
+220104096,01/04/22,17:59,18:01,18:02,,Alarm Audible,PN9,,,,"Loll, B","4270,4268",(MDC) Completed call incid#=220104096 call=120l,COPY ROOM DOOR,
+220104097,01/04/22,18:20,18:22,,,9-1-1 ABANDON,PN5,,,,"McCornack, CM","COM3",incid#=220104097 Completed call disp:NR clr:NR oc:-911 call=123l,911 ABANDON,
+220104098,01/04/22,19:08,19:08,,,9-1-1 ABANDON,PN5,"K-09, San L",849 MONTEREY; GIUSEPPES;,,"Recinos, V","COM2",incid#=220104098 Completed call disp:NR clr:NR call=125l,"ACCIDENTAL, WCB ON BUSN LINE",No Report
+220104099,01/04/22,19:19,19:21,19:53,,Medical,PN5,J-0,728 HIGUERA; FROG AND PEACH PUB;,,"Brewer, D","4271,4266,S5",(MDC) Completed call incid#=220104099 call=128l,"C3 FOR POSS OD ON UNK SUBSTANCE, FEELING LIGHT HEADED",No Report
+220104100,01/04/22,20:06,20:07,,,,,"L-06, SLO County,",1 GRAND; CALPOLY;,,"Recinos, V","COM2",incid#=220104100 Completed call disp:NR clr:NR call=129l,OBVIOUS POCKET DIAL,No Report
+220104101,01/04/22,20:08,20:11,20:19,,Noise Party,PN3,L-07,637 HENDERSON; RES TO THE REAR;,,"Tyler, B","4263,4266,4250,4271",(MDC) Completed call incid#=220104101 call=130l,LOUD MUSIC,Unable to Locate
+220104102,01/04/22,20:11,20:23,20:44,,9-1-1 ABANDON,PN6,"J-11, San L",2185 BEEBEE;IN THE AREA;,,"Bravo, D","4250,4266",(MDC) Completed call incid#=220104102 call=131l,"OPEN LINE, CONVERSATION HEARD - DISCONNECTING AND ATT TO CB",Unable to Locate
+220104103,01/04/22,20:29,20:35,20:44,,Assist Req,PN3,L-,2050 GARFIELD; HOTEL BUENA VISTA;,,"Swartz, C","4266",(MDC) Completed call incid#=220104103 call=132l,10-21,No Report
+220104104,01/04/22,20:39,,,,9-1-1 ABANDON,PN5,,,,,"COM",,2 IMMEDIATE DISCONNECTS - UNABLE TO CB DUE TO 911 PREFIX,
+220104105,01/04/22,20:58,21:00,21:04,,Disorderly,PN3,"L-08, San Luis Obi",MONTEREY & GROVE;,,"Tyler, B","4271,4263,4266,S5",(MDC) Completed call incid#=220104105 call=136l,"MALE WITH A BASEBALL BAT YELLING AT THE RP, SUBJ UNK TO THE RP",No Report
+220104106,01/04/22,21:00,21:01,,,9-1-1 ABANDON,PN5,,,,"Recinos, V","COM2",incid#=220104106 Completed call disp:NR clr:NR call=137l,IMMEDIATE DISCONNECT - ON CB CALLER ADV ACCIDENTAL,
+220104107,01/04/22,21:21,21:22,,,9-1-1 ABANDON,PN11,"N-17, San Luis Obis",4154 POINSETTIA;,,"Hixenbaugh, S","COM9",incid#=220104107 Completed call disp:NR clr:NR call=139l,MISDIAL TRYING TO USE GOOGLE,No Report
+220104108,01/04/22,21:29,21:32,21:35,,Disorderly,PN6,"J-11, San Luis Obisp",377 BRANCH # 3;,,"Brewer, D","4271,4263",(MDC) Completed call incid#=220104108 call=140l,UNK MALE POUNDING ON FRONT DOOR FOR PAST 5 MINS // WAS POUNDING O,Gone on Arrival
+220104109,01/04/22,21:40,21:40,,,9-1-1 ABANDON,PN5,,,,"Recinos, V","COM2",incid#=220104109 Completed call disp:NR clr:NR call=142l,ACCIDENTAL,
+220104110,01/04/22,22:11,22:13,22:20,,Medical,PN8,"H-14, San Luis Obis",1143 ATASCADERO;,,"Bracy, B","4261,4250,4271",(MDC) Completed call incid#=220104110 call=144l,C3 FOR OD ON MEDICATION,Report Approved/
+220104111,01/04/22,22:20,22:31,22:35,,Noise Other,PN12,"I-17, San Luis Obispo, CA",67 LINDA;,,"Bravo, D","4266,4263,4250",(MDC) Completed call incid#=220104111 call=145l,ON GOING PROBLEM W/RES PLAYING LOUD MUSIC,Negative Violati
+220104112,01/04/22,22:37,22:39,,,9-1-1 ABANDON,PN6,K-1,1401 OSOS; SIDEWALK MARKET DELI;,,"Recinos, V","COM2",incid#=220104112 Completed call disp:NR clr:NR call=146l,"RP ADV ACCIDENTAL, WCB ON BUSN LINE",No Report
+220104113,01/04/22,23:12,,23:12,,Towed Vehicle,PN2,"J-06, San Luis Obispo, CA",2 MUSTANG;,,"Recinos, V","COM2",incid#=220104113 Completed call disp:NR clr:NR call=147l,,No Report
+220104114,01/04/22,23:27,23:33,,,DUI,PN2,"J-06, San Lui",FOOTHILL & SANTA ROSA;,,"Hixenbaugh, S","COM9",incid#=220104114 BOL'D disp:NR clr:NR call=148l,RP IS OFF DUTY OFC REPORTING DUI,No Report
+220104115,01/04/22,23:45,23:50,00:16,,Noise Other,PN2,"J-07, San Luis",190 SANTA ROSA; SRP;,,"Brewer, D","4271",(MDC) Completed call incid#=220104115 call=149l,"MOTORCYLES OR MOTORIZED SCOOTERS BEING LOUD AT THE PARK, SOUNDS L",Gone on Arrival
+220104514,01/04/22,08:37,,,,,PN7,"N-12, San Luis Obispo, C",1638 CARLA;,,"PFARR, C",,,,Report Approved/
+220104515,01/04/22,12:21,,,,THEFT,PN3,"L-06, San Luis Obispo, CA",2011 HAYS;,,"PFARR, C",,,,Report Approved/
+220104516,01/04/22,14:47,,,,THEFT,PN5,"J-09,",1010 NIPOMO; CHILDRENS MUSEUM;,,"PFARR, C",,,,Report Approved/
+220105001,01/05/22,00:40,00:43,,,Noise Other,PN7,,,,"Recinos, V","COM2",incid#=220105001 Completed call disp:CAN clr:CAN call=1l,5-6 SUBJS IN POOL AREA BEING LOUD FOR PAST 3 HRS,
+220105002,01/05/22,01:01,01:03,,,Alarm Audible,PN5,,,,"Swartz, C","4266,4263",incid#=220105002 Completed call disp:CAN clr:CAN call=2l,OFC MOTION,
+220105003,01/05/22,02:26,02:29,02:37,,Disorderly,PN1,"J-06, Sa",22 CHORRO # 211; GRID J-06;,,"Tyler, B","4263,4271,4266,4250",(MDC) Completed call incid#=220105003 call=3l,"FEMALE SCREAMING ""GET OUT, GET OUT, LEAVE ME ALONE""",Report To Follow
+220105004,01/05/22,04:03,04:08,04:13,,Welfare Check,PN5,"J-09, San Luis Obi",MONTEREY & BROAD;,,"Brewer, D","4271,4250,S5","incid#=220105004 Reassigned to call 10l, completed call 8l",REOPENED,Report To Follow
+220105005,01/05/22,04:47,,04:53,,Noise Other,PN11,"M-15, San Luis",3601 SACRAMENTO; UPS;,,"Brewer, D","4266,4263,4271",(MDC) Completed call incid#=220105005 call=6l,PLAYING LOUD MUSIC,Negative Violati
+220105006,01/05/22,04:52,04:59,,,Attempt-Locate,PN6,"J-11, San Luis Obispo, C",1515 BEACH;,,"Swartz, C","4266,4271",,RP STANDING BY IN A GRY TOYT SUV,No Report
+220105007,01/05/22,05:13,05:14,05:23,,Suspicious,PN8,"F-13, San Luis",1434 PREFUMO CANYON;,,"Bravo, D","4250,4266",(MDC) Completed call incid#=220105007 call=9l,RP WITNESSED MALE TRYING TO BREAK INTO NEIGHBORS TK,No Report
+220105008,01/05/22,05:19,05:23,05:40,,Alarm Audible,PN11,,,,"Tyler, B","4263,4271",(MDC) Completed call incid#=220105008 call=10l,PREM PHON,
+220105009,01/05/22,05:32,05:34,,,9-1-1 ABANDON,PN3,,,,"Recinos, V","COM2",incid#=220105009 Completed call disp:NR clr:NR call=11l,"OPEN LINE, SOUNDS LIKE A POCKET DIAL - DISCONNECTING AND ATT TO C",
+220105010,01/05/22,06:13,06:21,06:38,,Welfare Check,PN7,"L-11, San Luis Obispo,",1224 SYLVIA;,,"Brewer, D","4271,4266",(MDC) Completed call incid#=220105010 call=12l,RP ADV HER HUSB WAS ACTING VERY ERRATIC AND SHE HAD TO LEAVE,No Report
+220105011,01/05/22,06:45,,06:46,,9-1-1 ABANDON,PN5,,,,"Lehnhoff, S","COMSP1",incid#=220105011 Completed call disp:NR clr:NR call=13l,911 ABANDONED / ON RECALL RP C4 ACCIDENTAL,
+220105012,01/05/22,06:54,07:15,07:32,,Loitering,PN2,,1010 MURRAY; SIERRA VISTA HOSPITAL;,,"Loll, B","4270,4265",(MDC) Completed call incid#=220105012 call=15l,TRANSIENT MALE REFUSING TO LEAVE THE RECEIVING DRIVEWAY,Field Interview
