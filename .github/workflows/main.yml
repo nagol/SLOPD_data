@@ -24,9 +24,6 @@ jobs:
           
       - name: execute py script
         run: python scripts/slopd_scraper.py
-        
-      - name: execute py script2
-        run: python scripts/analysis.py
           
       - name: commit files
         run: |
